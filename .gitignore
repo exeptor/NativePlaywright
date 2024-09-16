@@ -1,0 +1,9 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Playwright test results and artifacts
+test-results/
+artifacts/
+
+# Ignore environment files
+.env
